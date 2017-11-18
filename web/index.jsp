@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8"  %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>测试测试</title>
   </head>
   <body>
-  $END$
+ 测试测删除 说到底
   </body>
 </html>
